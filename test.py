@@ -1,3 +1,5 @@
+# added a comment here
+
 import pygame
 
 # for creating the game
